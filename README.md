@@ -1,0 +1,12 @@
+  - git clone https://github.com/camillevilla/phase-0-gps-1.git - copy repository from GitHub
+  - cd phase-0-gps-1/ - change directory
+  - touch README.md - makes a file
+  - git status - checks the status of repository
+  - git add README.md - add file to the repository staging area
+  - git commit -m "Added README file" - commit what you added
+  - git push origin master - push changes to GitHub, ready to be merged
+  - touch awesome_page.md - 
+  - git add awesome_page.md
+  - git commit -m "Added awesome page"
+  - git push origin master
+  - git checkout -b add-command-log - creating a new branch and switching to it
