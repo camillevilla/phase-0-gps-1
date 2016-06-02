@@ -1,0 +1,5 @@
+- I didn't have a great handle on conflicts between branches, and how to settle those conflicts. Also found myself running into trouble when I would forget to `add` a file that I had just made. Then when I came back to check the status of the master branch it would be behind, then I would have to go back and do the commit again, but it never goes smoothly.
+- The things I just mentioned.
+- The things I just mentioned. Also how to invite someone else to a repo, we covered that.
+- I think I'll still need practice with conflicts, and how to fix a botched push attempt--making the pull request again, but making it through github instead of through the command line.
+- It was good. Had some tech trouble--my computer I think is just too old to handle so many video streams on google hangouts (I used my phone instead, which made it hard to read the screen share). Other than that the guide was great, answered all of our questions, and my partner Camille was awesome--she seemed to know way more about coding than me, and got us out of a tricky situation that I would've been totally lost trying to figure out.
